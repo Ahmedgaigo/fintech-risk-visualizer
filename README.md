@@ -1,4 +1,3 @@
-# fintech-risk-visualizer
 # Real-Time Portfolio Risk Dashboard
 
 A comprehensive web-based dashboard for real-time portfolio risk analysis and management.
